@@ -1,2 +1,2 @@
 while True:
-    print(input.sound_level())
+    print(input.sound_level() - 14)

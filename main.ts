@@ -1,3 +1,3 @@
 while (true) {
-    console.log(input.soundLevel())
+    console.log(input.soundLevel() - 14)
 }
